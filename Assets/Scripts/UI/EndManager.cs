@@ -5,4 +5,5 @@ public class endManager : MonoBehaviour {
     public void backToMainMenu(){
         SceneManager.LoadScene(mainMenuIndex);
     }
-}
+} // Compare this snippet from Assets/Scripts/UI/EndManager.cs:
+// using UnityEngine;
